@@ -1,2 +1,3 @@
 # SalaryPrediction
-Simple Machine Learning Project.__  Predict the Salary based on Years of Experience
+Simple Machine Learning Project.<br?
+ Predict the Salary based on Years of Experience
